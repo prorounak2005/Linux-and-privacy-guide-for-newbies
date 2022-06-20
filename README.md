@@ -9,7 +9,7 @@ Before installing linux it is always good to know what linux is. If you are not 
 ---
 
 Linux is the [kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)). The linux operating system which we usually use is comprised of [GNU](https://en.wikipedia.org/wiki/GNU)+[LINUX](https://en.wikipedia.org/wiki/Kernel_(operating_system)).
-So basically Linux is the kernel whereas the GNU is the extensive collection of free software and thats why many people call it (GNU+LINUX). Here is the link to the copypasta which many people uses in linux forums and linux community - https://paste.rs/k0F
+So basically Linux is the kernel whereas the GNU is the extensive collection of free software and thats why many people call it (GNU+LINUX). Here is the link to the copypasta which many people use in linux forums and linux community - https://paste.rs/k0F
 
 
 #### Linux Distributions 
