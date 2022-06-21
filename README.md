@@ -13,8 +13,13 @@ So basically Linux is the kernel whereas the GNU is the extensive collection of 
 
 
 #### Linux Distributions 
-[Linux Distibution](https://en.wikipedia.org/wiki/Linux_distribution) or linux distros are different operating systems with different collection of
-apps,[package manager](https://en.wikipedia.org/wiki/Package_manager) and [desktop environment](https://en.wikipedia.org/wiki/Desktop_environment)(which we
-will cover in the next topic) but all linux distributions have one thing in common. They <strong>use the same [linux kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)). </strong>.
+[Linux Distibution](https://en.wikipedia.org/wiki/Linux_distribution) or linux distros are different operating systems with different collections of
+software /[package manager](https://en.wikipedia.org/wiki/Package_manager) / [desktop environment](https://en.wikipedia.org/wiki/Desktop_environment)(which we will cover in the next topic) but all linux distributions have one thing in common. They <strong>use the same [linux kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)). </strong>.
 
 #### Desktop environments
+[Desktop environemnts](https://en.wikipedia.org/wiki/Desktop_environment) are graphical user interfaces with their own set of apps (like notepad,calculator file managers). There are many desktop environments in linux, different desktop environment have different [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) they also have a different look and feel. 
+
+There are many desktop environments in linux and the most popular ones are - 
+
+* [Kde Plasma](https://kde.org/plasma-desktop/)  {Kde is an international free software community and they made the plasma Desktop environment}
+* [Cinnamon](
