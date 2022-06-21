@@ -18,7 +18,7 @@ software /[package manager](https://en.wikipedia.org/wiki/Package_manager) / [de
 
 * [Linuxmint](https://linuxmint.com/) - Linux mint was my first linux distro :) I highly recommend you to use this one.
 * [Kde neon](https://neon.kde.org/)
-* [Kubuntu](https://kubuntu.org/) - Just [ubuntu](https://ubuntu.com/) with Kde desktop environment. See the Desktop environment article.
+* [Kubuntu](https://kubuntu.org/) - Just [ubuntu](https://ubuntu.com/) with Kde desktop environment. See the [Desktop environment](https://github.com/prorounak2005/Newbies-Guide-to-linux/blob/main/README.md#desktop-environments) article.
 
 #### Desktop environments
 [Desktop environemnts](https://en.wikipedia.org/wiki/Desktop_environment) are graphical user interfaces with their own set of apps (like notepad,calculator file managers). There are many desktop environments in linux, different desktop environment have different [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) they also have a different look and feel. 
