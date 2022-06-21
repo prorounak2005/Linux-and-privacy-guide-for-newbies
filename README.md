@@ -27,5 +27,13 @@ There are many desktop environments in linux and the most popular ones are -
 
 * [Kde Plasma](https://kde.org/plasma-desktop/)  {Kde is an international free software community and they made the plasma Desktop environment}
 * [Cinnamon](https://linuxmint.com/edition.php?id=292) 
+* [Gnome](https://en.wikipedia.org/wiki/GNOME)
 * [Xfce](https://en.wikipedia.org/wiki/Xfce)
+
+## Installing linux operating system 
+Installing linux operating system is very easy and not that complicated. Many people say that most of the stuff doesn't work on linux, thats really not true but yeah some stuff (like some games, some video editing software) doesn't work on linux. Don't worry because I am going to give you some [free and open source alternatives](https://en.wikipedia.org/wiki/Free_and_open-source_software) to the [proprietary](https://en.wikipedia.org/wiki/Proprietary_software) video editors you often use in windows we will discuss it in details in this topic. Nowadays many games like ( Rust, Apex legends, csgo) specially the steam games runs on linux. Many big companies like [Valve](https://en.wikipedia.org/wiki/Valve_Corporation) , [Code Weavers](https://en.wikipedia.org/wiki/CodeWeavers) have made tremendous changes over the past few months, allowing Linux to truly become a viable platform for gaming. Further, more and more indie development teams strive to use cross-platform rendering engines in order to have their game able to compile and run on Linux. 
+
+### Installing a distribution
+First thing you want to do is to choose a linux distribution. Don't worry, installation steps will be same for all linux distributions. In this case I am going to use [Linux Mint](https://linuxmint.com/) you can use other distribtions if you like.
+
 
