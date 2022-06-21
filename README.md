@@ -14,7 +14,7 @@ So basically Linux is the kernel whereas the GNU is the extensive collection of 
 
 #### Linux Distributions 
 [Linux Distibution](https://en.wikipedia.org/wiki/Linux_distribution) or linux distros are different operating systems with different collections of
-software /[package manager](https://en.wikipedia.org/wiki/Package_manager) / [desktop environment](https://en.wikipedia.org/wiki/Desktop_environment)(which we will cover in the next topic) but all linux distributions have one thing in common. They <strong>use the same [linux kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)). </strong>. There are many linux distros out there but the ones I recommend are - 
+software / [package manager](https://en.wikipedia.org/wiki/Package_manager) / [desktop environment](https://en.wikipedia.org/wiki/Desktop_environment)(which we will cover in the next topic) but all linux distributions have one thing in common. They <strong>use the same [linux kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system)). </strong>. There are many linux distros out there but the ones I recommend are - 
 
 * [Linuxmint](https://linuxmint.com/) - Linux mint was my first linux distro :) I highly recommend you to use this one.
 * [Kde neon](https://neon.kde.org/)
