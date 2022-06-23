@@ -169,7 +169,7 @@ Now that you are familiar with linux. Now you want to play some games on linux. 
   * Then go to the Steam play section 
   * Make sure you check the tick box on `Enable steam play for supported titles`
   * Under the advanced tab make sure you tick the checkbox for `Enable steam play for all other titles`. In the `Run other titles with` drop down menu. Make sure to choose the latest proton version. Steam uses [Steam proton](https://github.com/ValveSoftware/Proton) a [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of [wine](https://www.winehq.org/) both wine and proton can run windows games in linux.
-   <h2 align="center"><img src="https://i.imgur.com/ncrFrCM.png"><h2>
+   <h2 align="center"><img src="https://i.imgur.com/ncrFrCM.png"></h2>
     
     * <bold>📜 NOTE:Wine/Proton are not emulators <strong><bold>WINE</strong></bold> stands for ( <strong><bold>W</strong></bold>ine <strong><bold>Is</strong></bold> <strong><bold>N</strong></bold>ot an <strong><bold>E</strong></bold>mulator)</bold> 
    
