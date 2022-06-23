@@ -13,6 +13,7 @@
       1. [Partitioning](#Partitioning)
 3. [Using Linux](#Using-Linux)
    1. [Installing graphics driver](#Installing-graphics-driver)
+   2. [Updating you pc](#Updating-your-pc)
 
 ---
 ## Introduction
@@ -127,6 +128,6 @@ Now you should get a option to boot into linux as well as windows. :) (If you ar
 ## Using Linux
 
 ### Installing graphics driver
-After rebboting into you new linux machine you will be greeted with cinnamon desktop environment. It looks like windows isn't it ? :) . You can press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If it says that `Your computer does not need any additional drivers` you can skip this part. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers. Click on `apply changes`. It will take time to install your drivers, and then a prompt may show up saying that you need to restart your pc. Click on `no` because we have to
+After rebboting into you new linux machine you will be greeted with cinnamon desktop environment. It looks like windows isn't it ? :) . You can press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If it says that `Your computer does not need any additional drivers` you can skip this part. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers. Click on `apply changes`. It will take time to install your drivers, and then a prompt may show up saying that you need to restart your pc. Click on `no` because we have to [update our pc](#Updating-your-pc)
 
 ### Updating your pc 
