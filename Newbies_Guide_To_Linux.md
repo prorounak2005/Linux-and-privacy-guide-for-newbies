@@ -101,7 +101,7 @@ Now that you have installed linux in a pendrive. To install linux you have to bo
 * <bold><strong>Something else</bold></strong> - If you want to manually partition your disk. See the [Example layouts](https://wiki.archlinux.org/title/Installation_guide#Example_layouts) to get an idea if you want to partition your disk.
   * For people using old bios (LEGACY BIOS) I recommend you to watch this video - https://youtu.be/zuEmhXfBftI (Not the best youtube tutorial ik but still it is ok) 
   *  For people with UEFI BIOS follow these steps -
-     * To make efi partition [click on `New partition table` option](https://i.imgur.com/ZpyD3Wx.png)
+     * To make [efi partition](https://en.wikipedia.org/wiki/EFI_system_partition) click on [`New partition table`](https://i.imgur.com/ZpyD3Wx.png) option
      * Click on continue
      * [Select the `Free Space`](https://i.imgur.com/fytQXsQ.png)
      * [Click on the plus button below](https://i.imgur.com/WLNOjCB.png)
