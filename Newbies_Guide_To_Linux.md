@@ -14,6 +14,7 @@
 3. [Using Linux](#Using-Linux)
    1. [Installing graphics driver](#Installing-graphics-driver)
    2. [Updating you pc](#Updating-your-pc)
+   3. [Installing softwares](#Installing-softwares)
 
 ---
 ## Introduction
@@ -128,6 +129,10 @@ Now you should get a option to boot into linux as well as windows. :) (If you ar
 ## Using Linux
 
 ### Installing graphics driver
-After rebboting into you new linux machine you will be greeted with cinnamon desktop environment. It looks like windows isn't it ? :) . You can press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If it says that `Your computer does not need any additional drivers` you can skip this part. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers. Click on `apply changes`. It will take time to install your drivers, and then a prompt may show up saying that you need to restart your pc. Click on `no` because we have to [update our pc](#Updating-your-pc)
+After rebboting into you new linux machine you will be greeted with cinnamon desktop environment. It looks like windows isn't it ? :) . You can press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If it says that `Your computer does not need any additional drivers` you can skip this part. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers. Click on `apply changes`. It will take time to install your drivers, and then a prompt may show up saying that you need to restart your pc. Click on `yes` and reboot. Now you have to [update your pc](#Updating-your-pc)
 
 ### Updating your pc 
+
+It is important to update your pc. To update your pc press the windows key / super key and then search for `Update Manager`. Then apply the update. Updating your pc will take time. Then reboot you pc. You can also update through command line by opening terminal and typing `sudo apt update` which will check the repository and will show the list of apps which needs to be updated. Play close attention to the terminal and don't ignore the messages. If it says that everything is up to date or all package are up to date then close your terminal. If it says that there are upgradable packages you have to upgrade/install them by typing `sudo apt update`. After installing if is <bold><strong>very important</bold></strong> to reboot your pc.
+
+### Installing softwares
