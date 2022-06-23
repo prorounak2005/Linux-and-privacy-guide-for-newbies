@@ -142,6 +142,8 @@ Another way is to do it through the terminal -
 * `sudo apt search <i>name_of_the_application</i>`
 It will show the name of the application and whether is it there in your [package manager](https://en.wikipedia.org/wiki/Package_manager) and then do - 
 * `sudo apt install <i>name_of_the_application</i>`
-Done !!.
+Done !!. 
+
+Linux mint uses apt [package manager](https://en.wikipedia.org/wiki/Package_manager) so it is important to know about your package manager. You can type `apt --help` in the terminal which show list of things which your package manager can do for you.
 
 ### Removing softwares
