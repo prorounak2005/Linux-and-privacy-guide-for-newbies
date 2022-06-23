@@ -11,6 +11,7 @@
    3. [Booting from USB Pendrive](#Booting-from-you-USB-Pendrive)
    4. [Installation](#Installation)
       1. [Partitioning](#Partitioning)
+3. [Using Linux](#Using-Linux)
 
 ---
 ## Introduction
@@ -121,3 +122,6 @@ Now that you have installed linux in a pendrive. To install linux you have to bo
 * After rebooting immediately remove the pendrive from your computer because if you don't remove the pendrive you will again boot from your pendrive into the [live environment](https://en.wikipedia.org/wiki/Live_CD). You don't want that because you just installed linux mint into your HDD/SSD.
 * Congrats! You installed linux. FREEEEEEEEDOOOOOOOOM!! :)
 Now you should get a option to boot into linux as well as windows. :) (If you are dualbooting).
+
+## Using Linux
+
