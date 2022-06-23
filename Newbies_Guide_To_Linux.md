@@ -174,7 +174,8 @@ Now that you are familiar with linux. Now you want to play some games on linux. 
     * <bold>📜 NOTE:Wine/Proton are not emulators <strong><bold>WINE</strong></bold> stands for ( <strong><bold>W</strong></bold>ine <strong><bold>Is</strong></bold> <strong><bold>N</strong></bold>ot an <strong><bold>E</strong></bold>mulator)</bold> 
    
       
-   
       * If you want to know more about wine ( and on how it works ) read this article on wikipedia - . If you want to know more about wine read this article on wikipedia - https://en.wikipedia.org/wiki/Wine_(software)
 
+
+*
 
