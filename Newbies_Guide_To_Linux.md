@@ -177,5 +177,5 @@ Now that you are familiar with linux. Now you want to play some games on linux. 
       * If you want to know more about wine ( and on how it works ) read this article on wikipedia - . If you want to know more about wine read this article on wikipedia - https://en.wikipedia.org/wiki/Wine_(software)
 
 
-*
+* Most of the steam games can run on linux through Steam proton. But for non steam games you have to use [wine](https://www.winehq.org/).
 
