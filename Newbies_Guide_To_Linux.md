@@ -117,6 +117,7 @@ Now that you have installed linux in a pendrive. To install linux you have to bo
 <strong><bold>📜NOTE: Linux is secure because if prompts for a passwrods everytime user tries to install software or do some admin stuff for security reasons. You can click on `Login automatically` option which will log you in automatically but you will still need the password because your pc will prompt for the password when you will try to to admin stuff ( for ex - installing/removing software , editing system files etc etc.) so dont forget the password. </strong></bold>
 
 * Now wait for the system to install everything for you :)
-* And then you will prompted with a window where it will ask you to reboot your pc. Reboot it. 
+* And then you will prompted with a window where it will ask you to reboot your pc. Reboot it.
+* After rebooting immediately remove the pendrive from your computer because if you don't remove the pendrive you will again boot from your pendrive into the [live environment](https://en.wikipedia.org/wiki/Live_CD). You don't want that because you just installed linux mint into your HDD/SSD.
 * Congrats! You installed linux. FREEEEEEEEDOOOOOOOOM!! :)
 Now you should get a option to boot into linux as well as windows. :) (If you are dualbooting).
