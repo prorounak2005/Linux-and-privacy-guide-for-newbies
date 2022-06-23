@@ -144,4 +144,4 @@ It will show the name of the application and whether is it there in your [packag
 * `sudo apt install <i>name_of_the_application</i>`
 Done !!.
 
-### Removing softwares - 
+### Removing softwares
