@@ -12,6 +12,7 @@
    4. [Installation](#Installation)
       1. [Partitioning](#Partitioning)
 3. [Using Linux](#Using-Linux)
+   1. [Installing graphics driver](#Installing-graphics-driver)
 
 ---
 ## Introduction
@@ -124,4 +125,7 @@ Now that you have installed linux in a pendrive. To install linux you have to bo
 Now you should get a option to boot into linux as well as windows. :) (If you are dualbooting).
 
 ## Using Linux
+
+### Installing graphics driver
+After rebboting into you new linux machine you will be greeted with cinnamon desktop environment. It looks like windows isn't it ? :) . You can press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers.
 
