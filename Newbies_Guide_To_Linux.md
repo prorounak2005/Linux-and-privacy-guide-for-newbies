@@ -147,3 +147,11 @@ Done !!.
 Linux mint uses apt [package manager](https://en.wikipedia.org/wiki/Package_manager) so it is important to know about your package manager. You can type `apt --help` in the terminal which show list of things which your package manager can do for you.
 
 ### Removing softwares
+To remove software - 
+* Search for the software in the applications menu. Right click on the applcation and `uninstall`
+* Open your `Software Manager` search for the software and uninstall.
+* Open your terminal and run these commands -
+  * `sudo apt remove <i>your_Application_name</i>` - Which removes the application but their configuration files and important settings will still remain on your pc. I don't recommend you to run this command.
+  * `sudo apt purge <i>your_Application_name</i>` - Remove the applications , their configuration files and important settings. I use this command :)
+
+
