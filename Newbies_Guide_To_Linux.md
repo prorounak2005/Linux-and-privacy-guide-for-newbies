@@ -199,7 +199,7 @@ Most of the steam games can run on linux through Steam proton. But for non steam
     ```
 This is how you can install wine in any ubuntu/debian systems. Linux mint already have wine in their apt repository but the wine package they have is very old. So thats why you have go through these commands to install wine. This guide is only for Ubuntu and Debian based systems. If you want to install wine on  other linux distributions you can do so by going to this website - https://wiki.winehq.org/Download and choosing the linux distributions from the list.
 
-You have installed wine !!!!. So easy isn't it ? :) Now we will install a graphical frontend to wine ( like [lutis](https://lutris.net/) ) because wine doesn't have a [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) which means you have to use terminal to install your favorite games, which will be a tiresome experience. So we have to install [lutis](https://lutris.net/) so that you can install your favorite games with a single click. To install lutris type these commands one by one into the terminal - 
+You have installed wine !!!!. So easy isn't it ? :) Now we will install a graphical frontend to wine ( like [lutris](https://lutris.net/) ) because wine doesn't have a [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) which means you have to use terminal to install your favorite games, which will be a tiresome experience. So we have to install [lutis](https://lutris.net/) so that you can install your favorite games with a single click. To install lutris type these commands one by one into the terminal - 
 ```
 sudo add-apt-repository ppa:lutris-team/lutris
 sudo apt update
