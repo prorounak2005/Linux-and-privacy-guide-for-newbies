@@ -17,6 +17,8 @@
    3. [Installing softwares](#Installing-softwares)
    4. [Removing softwares](#Removing-softwares)
 4. [Gaming](#Gaming)
+   1. [Installing Steam](#Steam)
+   2. [Installing Wine](#Wine)
 
 ---
 ## Introduction
@@ -181,8 +183,9 @@ Now you are ready to install your favorite games on steam. Go to [Proton db](htt
       
       * If you want to know more about wine ( and on how it works ) read this article on wikipedia - . If you want to know more about wine read this article on wikipedia - https://en.wikipedia.org/wiki/Wine_(software)
 
+### Wine
 
-* Most of the steam games can run on linux through Steam proton. But for non steam games you have to use [wine](https://www.winehq.org/).
+Most of the steam games can run on linux through Steam proton. But for non steam games you have to use [wine](https://www.winehq.org/).
   * To install wine in linux mint open you terminal and Run these following commands one by one and paste it in the terminal. 
     ```
     sudo dpkg --add-architecture i386
