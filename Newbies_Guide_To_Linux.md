@@ -207,3 +207,5 @@ sudo apt install lutris
 
 ```
 If you are using other linux ditro then read [this article by lutris](https://lutris.net/downloads)
+
+You have installed lutris. :D NOw you can login to different accout by click on the [connect button](https://i.imgur.com/Xovf4NJ.png)
