@@ -159,8 +159,10 @@ To remove software -
 ## Gaming 
 Now that you are familiar with linux. Now you want to play some games on linux. Lemme be honest here. Not all games run on linux. All the games you play use some called as [Anti-Cheat](https://en.wikipedia.org/wiki/Category:Anti-cheat_software) which prevents cheater from cheating. Many companies who make these anti cheats don't support linux. Which means you cannot play it only on windows. If u are a gamer the best operating system probably for you will be windows for now but windows and mac are [proprietary / closed-source](https://en.wikipedia.org/wiki/Proprietary_software) operating system which means no one cannot read its [source code](https://en.wikipedia.org/wiki/Source_code) whereas linux is free and open source. My main reason in making this guide was to make people use free and open source operating systems which does no spy on you!! You have many options to game on linux- 
 
-* Many steam games run on linux install steam on ur pc and then go to [Proton db](https://www.protondb.com/) 
-  * Install steam on you pc and then open your steam client.
+### Steam
+Many steam games run on linux. To install steam on ur pc follow these steps - 
+  
+  * [Install](#Installing-softwares) steam on you pc and then open your steam client.
   * And then click on steam on the top left corner of your steam client - 
     
     <h2 align="center"><img src="https://i.imgur.com/I2x2K1a.png"></h2>
