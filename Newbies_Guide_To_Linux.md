@@ -38,6 +38,7 @@ software / [package manager](https://en.wikipedia.org/wiki/Package_manager) / [d
 * [Linuxmint](https://linuxmint.com/) - Linux mint was my first linux distro :) I highly recommend you to use this one.
 * [Kde neon](https://neon.kde.org/)
 * [Kubuntu](https://kubuntu.org/) - Just [ubuntu](https://ubuntu.com/) with Kde desktop environment (ubuntu uses GNOME Desktop environment). See the [Desktop environment](#desktop-environments) topic.
+* [Pop!_OS](https://pop.system76.com/)
 
 #### Desktop environments
 [Desktop environments](https://en.wikipedia.org/wiki/Desktop_environment) are graphical user interfaces with their own set of apps (like notepad,calculator file managers). There are many desktop environments in linux, different desktop environment have different [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) they also have a different look and feel. 
@@ -178,4 +179,24 @@ Now that you are familiar with linux. Now you want to play some games on linux. 
 
 
 * Most of the steam games can run on linux through Steam proton. But for non steam games you have to use [wine](https://www.winehq.org/).
+  * To install wine in linux mint open you terminal and Run these following commands one by one and paste it in the terminal. 
+    ```
+    sudo dpkg --add-architecture i386
+    wget -nc https://dl.winehq.org/wine-builds/winehq.key
+    sudo mv winehq.key /usr/share/keyrings/winehq-archive.key
+    wget -nc https://dl.winehq.org/wine-builds/ubuntu/dists/focal/winehq-focal.sources
+    sudo mv winehq-focal.sources /etc/apt/sources.list.d/
+    sudo apt update
+    sudo apt install --install-recommends winehq-stable
+    #https://wiki.winehq.org/Ubuntu
+    ```
+This is how you can install wine in any ubuntu/debian systems. Linux mint already have wine in their apt repository but the wine package they have is very old. So thats why you have go through these commands to install wine. This guide is only for Ubuntu and Debian based systems. If you want to install wine on  other linux distributions you can do so by going to this website - https://wiki.winehq.org/Download and choosing the linux distributions from the list.
 
+You have installed wine !!!!. So easy isn't it ? :) Now we will install a graphical frontend to wine ( like [lutis](https://lutris.net/) ) because wine doesn't have a [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) which means you have to use terminal to install your favorite games, which will be a tiresome experience. So we have to install [lutis](https://lutris.net/) so that you can install your favorite games with a single click. To install lutris type these commands one by one into the terminal - 
+```
+sudo add-apt-repository ppa:lutris-team/lutris
+sudo apt update
+sudo apt install lutris
+
+```
+If you are using other linux ditro then read [this article by lutris](https://lutris.net/downloads)
