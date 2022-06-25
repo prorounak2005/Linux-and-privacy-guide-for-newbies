@@ -178,10 +178,13 @@ Many steam games run on linux. To install steam on ur pc follow these steps -
 
 Now you are ready to install your favorite games on steam. Go to [Proton db](https://www.protondb.com/) and search for your favorite games to see whether it is available or not. 
     
-    * <bold>📜 NOTE:Wine/Proton are not emulators <strong><bold>WINE</strong></bold> stands for ( <strong><bold>W</strong></bold>ine <strong><bold>Is</strong></bold> <strong><bold>N</strong></bold>ot an <strong><bold>E</strong></bold>mulator)</bold> 
+   
+   * <bold>📜 NOTE:Wine/Proton are not emulators <strong><bold>WINE</strong></bold> stands for ( <strong><bold>W</strong></bold>ine <strong><bold>Is</strong></bold> <strong><bold>N</strong></bold>ot an <strong><bold>E</strong></bold>mulator)</bold> 
    
       
-      * If you want to know more about wine ( and on how it works ) read this article on wikipedia - . If you want to know more about wine read this article on wikipedia - https://en.wikipedia.org/wiki/Wine_(software)
+   
+   * If you want to know more about wine ( and on how it works ) read this article on wikipedia - . If you want to know more about wine read this article on wikipedia - https://en.wikipedia.org/wiki/Wine_(software)
+
 
 ### Wine
 
@@ -196,6 +199,7 @@ Most of the steam games can run on linux through Steam proton. But for non steam
     sudo apt update
     sudo apt install --install-recommends winehq-stable
     #https://wiki.winehq.org/Ubuntu
+    
     ```
 This is how you can install wine in any ubuntu/debian systems. Linux mint already have wine in their apt repository but the wine package they have is very old. So thats why you have go through these commands to install wine. This guide is only for Ubuntu and Debian based systems. If you want to install wine on  other linux distributions you can do so by going to this website - https://wiki.winehq.org/Download and choosing the linux distributions from the list.
 
