@@ -126,7 +126,7 @@ Now that you have installed linux in a pendrive. To install linux you have to bo
 * Type you name ( You can do it yourself :D ) 
 * Type your password-
 
-<strong><bold>📜NOTE: Linux is secure because if prompts for a passwords everytime user tries to install software or do some admin stuff for security reasons. You can click on `Login automatically` option which will log you in automatically but you will still need the password because your pc will prompt for the password when you will try to do stuff which requires admin priveledges ( for ex - installing/removing software , editing system files etc etc.) so dont forget the password. </strong></bold>
+<strong><bold>📜NOTE: Linux is secure because it prompts for a passwords everytime user tries to install software or do some admin stuff "for security reasons". You can click on `Login automatically` option which will log you in automatically but you will still need the password because your pc will prompt for the password when you will try to do stuff which requires admin priveledges ( for ex - installing/removing software , editing system files etc etc.) so dont forget the password. </strong></bold>
 
 * Now wait for the system to install everything for you :)
 * And then you will prompted with a window where it will ask you to reboot your pc. Reboot it.
