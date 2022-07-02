@@ -19,6 +19,8 @@
 4. [Gaming](#Gaming)
    1. [Installing Steam](#Steam)
    2. [Installing Wine](#Wine)
+5. [Productivity](#Productivity)
+   1. [Office suites](#Office-suites)
 
 ---
 ## Introduction
@@ -219,3 +221,16 @@ You have installed lutris. :D Now you can login to different accout by click on 
 
 ---
 
+## Productivity
+
+### Office-suites
+Instead of using Microsoft Office you can use a program called as [Libre Office](https://www.libreoffice.org/) which has a suite of applications like microsoft office has. Such as- 
+* Libreoffice writer - Word processor 
+* Libreoffice Base - Database Development
+* Libreoffice calc - For spreadsheets
+* Libreoffice Impress - For presentations
+* Libreoffice Draw - For drawing 
+* Libreoffice Math - A formula editor
+
+There are other alternatives to libreoffice to. Such as - [OnlyOffice](https://www.onlyoffice.com/) , [open office](https://www.openoffice.org/) . 
+I personally recommend Libreoffice because it is better in my opinion as compared to other office suites. You can [easily install it](#Installing-softwares) in linux mint.
