@@ -21,6 +21,7 @@
    2. [Installing Wine](#Wine)
 5. [Productivity](#Productivity)
    1. [Office suites](#Office-suites)
+   2. [Editing Softwares](#Editing-softwares)
 
 ---
 ## Introduction
@@ -234,3 +235,5 @@ Instead of using Microsoft Office you can use a program called as [Libre Office]
 
 There are other alternatives to libreoffice to. Such as - [OnlyOffice](https://www.onlyoffice.com/) , [open office](https://www.openoffice.org/) . 
 I personally recommend Libreoffice because it is better in my opinion as compared to other office suites. You can [easily install it](#Installing-softwares) in linux mint.
+
+### Editing softwares
