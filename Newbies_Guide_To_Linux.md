@@ -136,8 +136,11 @@ Now you should get a option to boot into linux as well as windows. :) (If you ar
 
 ## Using Linux
 
+### Linux mint welcome screen
+After rebboting, you will get into your linux mint desktop with cinnamon desktop environment. It looks like windows isn't it ? :) . A mesage will pop up in your screen saying that you have to install your graphics driver. It is recommended to [install your graphics driver](#Installing-graphics-driver) and to [update your system](#Updating-your-pc). [Linux mint welcome screen](https://i.imgur.com/672Agig.png) will also pop up. You can go to `First step` tab to change your system appearance from white mode to dark mode. You can also change your panel (taskbar) if you want to. If you have time in your hand, it is always recommended to read the documentations in the `Documentation` tab.
+
 ### Installing graphics driver
-After rebboting into you new linux machine you will be greeted with cinnamon desktop environment. It looks like windows isn't it ? :) . You can press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If it says that `Your computer does not need any additional drivers` you can skip this part. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers. Click on `apply changes`. It will take time to install your drivers, and then a prompt may show up saying that you need to restart your pc. Click on `yes` and reboot. Now you have to [update your pc](#Updating-your-pc)
+Press your windows key ( in linux we call it "super key") to open linux mint menu. After opening that search for `Driver Manager` and click on it to open it. If it says that `Your computer does not need any additional drivers` you can skip this part. If you use nvidia you will see `open source drivers` and `proprietary drivers`. I will always recommend `proprietary drivers` because it is better than the `open source` [nouveau](https://en.wikipedia.org/wiki/Nouveau_(software)) drivers. Click on `apply changes`. It will take time to install your drivers, and then a prompt may show up saying that you need to restart your pc. Click on `yes` and reboot. Now you have to [update your pc](#Updating-your-pc)
 
 ### Updating your pc 
 
