@@ -162,8 +162,8 @@ To remove software -
 * Search for the software in the applications menu. Right click on the applcation and `uninstall`
 * Open your `Software Manager` search for the software and uninstall.
 * Open your terminal and run these commands -
-  * `sudo apt remove <i>your_Application_name</i>` - Which removes the application but their configuration files and important settings will still remain on your pc. I don't recommend you to run this command.
-  * `sudo apt purge <i>your_Application_name</i>` - Remove the applications , their configuration files and important settings. I use this command :)
+  * `sudo apt remove your_Application_name` - Which removes the application but their configuration files and important settings will still remain on your pc. I don't recommend you to run this command.
+  * `sudo apt purge your_Application_name` - Remove the applications , their configuration files and important settings. I use this command :)
 
 ## Gaming 
 Now that you are familiar with linux. Now you want to play some games on linux. Lemme be honest here. Not all games run on linux. All the games you play use some called as [Anti-Cheat](https://en.wikipedia.org/wiki/Category:Anti-cheat_software) which prevents cheater from cheating. Many companies who make these anti cheats don't support linux. Which means you cannot play it only on windows. If u are a gamer the best operating system probably for you will be windows for now but windows and mac are [proprietary / closed-source](https://en.wikipedia.org/wiki/Proprietary_software) operating system which means no one cannot read its [source code](https://en.wikipedia.org/wiki/Source_code) whereas linux is free and open source. My main reason in making this guide was to make people use free and open source operating systems which does no spy on you!! You have many options to game on linux- 
