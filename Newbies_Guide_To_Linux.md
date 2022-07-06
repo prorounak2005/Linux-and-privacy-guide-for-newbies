@@ -150,9 +150,9 @@ It is important to update your pc. To update your pc press the windows key / sup
 ### Installing softwares
 Installing software is very very easy in linux. Press the windows key and search for `Software Manager` and open it. Search for the software you want to install and click on install. Give your password and wait for it to finish install and then open the application :) 
 Another way is to do it through the terminal - 
-* `sudo apt search <i>name_of_the_application</i>`
+* `sudo apt search name_of_the_application`
 It will show the name of the application and whether is it there in your [package manager](https://en.wikipedia.org/wiki/Package_manager) and then do - 
-* `sudo apt install <i>name_of_the_application</i>`
+* `sudo apt install name_of_the_application`
 Done !!. 
 
 Linux mint uses apt [package manager](https://en.wikipedia.org/wiki/Package_manager) so it is important to know about your package manager. You can type `apt --help` in the terminal which show list of things which your package manager can do for you.
