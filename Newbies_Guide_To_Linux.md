@@ -45,6 +45,7 @@ software / [package manager](https://en.wikipedia.org/wiki/Package_manager) / [d
 * [Kde neon](https://neon.kde.org/)
 * [Kubuntu](https://kubuntu.org/) - Just [ubuntu](https://ubuntu.com/) with Kde desktop environment (ubuntu uses GNOME Desktop environment). See the [Desktop environment](#desktop-environments) topic.
 * [Pop!_OS](https://pop.system76.com/)
+* [Zorin Os](https://zorin.com/)
 
 #### Desktop environments
 [Desktop environments](https://en.wikipedia.org/wiki/Desktop_environment) are graphical user interfaces with their own set of apps (like notepad,calculator file managers). There are many desktop environments in linux, different desktop environment have different [GUIs](https://en.wikipedia.org/wiki/Graphical_user_interface) they also have a different look and feel. 
