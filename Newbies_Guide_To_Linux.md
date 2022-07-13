@@ -241,3 +241,7 @@ There are other alternatives to libreoffice to. Such as - [OnlyOffice](https://w
 I personally recommend Libreoffice because it is better in my opinion as compared to other office suites. You can [easily install it](#Installing-softwares) in linux mint.
 
 ### Editing softwares
+Editing softwares like Adobe doesn't support linux . You can use [bottles](https://usebottles.com/) which is a frontend to wine. It can easily install any .msi ( microsoft installer ) / .exe files. To install bottles follow these steps. Dw it is not that hard :) - 
+ * Before installing bottles. You have to install [Flatpak](https://en.wikipedia.org/wiki/Flatpak) which is a [software management](https://en.wikipedia.org/wiki/Software_deployment) system for linux. Basically it works like a another [package manager](https://en.wikipedia.org/wiki/Package_manager) with its own [repositories](https://en.wikipedia.org/wiki/Software_repository) like the apt package manager. Flatpak can run on all linux distributions. 
+ * Make sure to follow this awesome guide on youtube. - https://youtu.be/8a1D1w1cvTs
+ * To run apks / .exes / .msi files follow this guide - https://youtu.be/_F3pO_pAlQw ( Watch from `3:261` ) # I know the music in this video is cancer but it is a good tutorial to begin with -__-
