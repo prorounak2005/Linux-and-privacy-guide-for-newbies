@@ -243,6 +243,12 @@ I personally recommend Libreoffice because it is better in my opinion as compare
 
 ### Editing softwares
 Editing softwares like Adobe doesn't support linux . You can use [bottles](https://usebottles.com/), a frontend to wine to run adobe softwares. It can easily install any .msi ( microsoft installer ) / .exe files. To install flatpak follow these steps. Dw it is not that hard :) - 
- * Before installing bottles. You have to install [Flatpak](https://en.wikipedia.org/wiki/Flatpak) which is a [software management](https://en.wikipedia.org/wiki/Software_deployment) system for linux in order to install bottles. Basically flatpak works like a another [package manager](https://en.wikipedia.org/wiki/Package_manager) with its own [repositories](https://en.wikipedia.org/wiki/Software_repository) like the apt package manager. Flatpak can run on all linux distributions. 
- * To install bottles make sure to follow this awesome guide on youtube. - https://youtu.be/8a1D1w1cvTs
- * To run apks / .exes / .msi files follow this guide - https://youtu.be/_F3pO_pAlQw ( Watch from `3:26` ) # I know the music in this video is cancer but it is a good tutorial to begin with -__-
+ * <strong>Install your windows only editing softwares using wine </strong>
+   1. Before installing bottles. You have to install [Flatpak](https://en.wikipedia.org/wiki/Flatpak) which is a [software management](https://en.wikipedia.org/wiki/Software_deployment) system for linux in order to install bottles. Basically flatpak works like a another [package manager](https://en.wikipedia.org/wiki/Package_manager) with its own [repositories](https://en.wikipedia.org/wiki/Software_repository) like the apt package manager. Flatpak can run on all linux distributions. 
+   2. To install bottles make sure to go to this website and click on the distribution you use. - https://flatpak.org/setup/
+   3. To run apks / .exes / .msi files follow this guide - https://youtu.be/_F3pO_pAlQw ( Watch from `3:26` ) # I know the music in this video is cancer but it is a good tutorial to begin with -__-
+ * <strong>Free and open source alternatives to your proprietary editing softwares </strong> 
+   * [GIMP](https://www.gimp.org/) - An awesome image editior. It can be an alternative to adobe photoshop.
+   * [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported. (- wikipedia)
+   * [Krita](https://krita.org/) - Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. The software runs on Windows, macOS, Linux, Android, and Chrome OS. (-Wikipedia)
+   * [Kdenlive](https://kdenlive.org/en/download) - An awesome video editor made by kde. It can do all the work you need.
