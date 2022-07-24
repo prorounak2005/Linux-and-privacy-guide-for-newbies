@@ -5,25 +5,31 @@
    1. [What is linux](#What-is-linux)
    2. [Linux Distributions](#Linux-Distributions)
    3. [Desktop Environments](#Desktop-environments)
+
 2. [Installing linux operating system](#Installing-linux-operating-system)
    1. [Installing a distribution](#Installing-a-distribution)
    2. [Prerequisites](#Prerequisites)
    3. [Booting from USB Pendrive](#Booting-from-you-USB-Pendrive)
    4. [Installation](#Installation)
       1. [Partitioning](#Partitioning)
+
 3. [Using Linux](#Using-Linux)
    1. [Welcome screen](#Linux-mint-welcome-screen)
    2. [Installing graphics driver](#Installing-graphics-driver)
    3. [Updating you pc](#Updating-your-pc)
    4. [Installing softwares](#Installing-softwares)
    5. [Removing softwares](#Removing-softwares)
+
 4. [Gaming](#Gaming)
    1. [Installing Steam](#Steam)
    2. [Installing Wine](#Wine)
+
 5. [Productivity](#Productivity)
    1. [Office suites](#Office-suites)
    2. [Editing Softwares](#Editing-softwares)
+
 6  [Troubleshooting / Tips and tricks](#Troubleshooting-/-Tips-and-tricks)
+
 7. [Learn more about linux](#Learn-more-about-linux)
    1. [Command Line](#Command-line)
 ---
