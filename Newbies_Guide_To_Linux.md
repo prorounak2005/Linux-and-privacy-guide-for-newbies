@@ -1,5 +1,5 @@
 # Newbies guide to linux
-
+------------------------
 # Table of contents
 1. [Introduction](#Introduction)
    1. [What is linux](#What-is-linux)
@@ -271,3 +271,5 @@ Editing softwares like Adobe doesn't support linux . You can use [bottles](https
 ## Learn more about linux
 ### Command line 
 It is good to have to knowledge about linux. Specially about the command line. If u are a newbie and don't know how to get started with command line. You should watch [this video](https://youtu.be/s3ii48qYBxA) by [Distrotube](https://www.youtube.com/c/DistroTube/videos) . 
+
+------------------------
