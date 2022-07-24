@@ -23,7 +23,9 @@
 5. [Productivity](#Productivity)
    1. [Office suites](#Office-suites)
    2. [Editing Softwares](#Editing-softwares)
-
+6  [Troubleshooting / Tips and tricks](#Troubleshooting-/-Tips-and-tricks)
+7. [Learn more about linux](#Learn-more-about-linux)
+   1. [Command Line](#Command-line)
 ---
 ## Introduction
 This is a guide made for linux newbies. To make them comfortable with linux. You are free to open issue if you have any question regarding this topic.
@@ -252,3 +254,12 @@ Editing softwares like Adobe doesn't support linux . You can use [bottles](https
    * [Inkscape](https://inkscape.org/) - Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported. (- wikipedia)
    * [Krita](https://krita.org/) - Krita is a free and open-source raster graphics editor designed primarily for digital painting and 2D animation. The software runs on Windows, macOS, Linux, Android, and Chrome OS. (-Wikipedia)
    * [Kdenlive](https://kdenlive.org/en/download) - An awesome video editor made by kde. It can do all the work you need.
+   * [Obs studio](https://obsproject.com/) - A screen recorder used my streamers and professionals. 
+
+## Troubleshooting / Tips and tricks
+
+
+
+## Learn more about linux
+### Command line 
+It is good to have to knowledge about linux. Specially about the command line. If u are a newbie and don't know how to get started with command line. You should watch [this video](https://youtu.be/s3ii48qYBxA) by [Distrotube](https://www.youtube.com/c/DistroTube/videos) . 
