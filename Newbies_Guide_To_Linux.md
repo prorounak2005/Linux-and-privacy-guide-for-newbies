@@ -28,7 +28,7 @@
    1. [Office suites](#Office-suites)
    2. [Editing Softwares](#Editing-softwares)
 
-6  [Troubleshooting / Tips and tricks](#Troubleshooting-/-Tips-and-tricks)
+6  [Troubleshooting / Tips and tricks](#troubleshooting--tips-and-tricks)
 
 7. [Learn more about linux](#Learn-more-about-linux)
    1. [Command Line](#Command-line)
